@@ -108,6 +108,52 @@ class myJavaProgram    // sintaxis válida, pero desaconsejada
 ```
 
 
+### Public static void main(String[] args)
+
+El método main() es el punto principal de nuestra aplicación, donde el proceso empieza y se ejecuta.
+
+### Nombres de métodos
+
+- **Todos** los métodos deben empezar por minúscula como buena práctica.
+- Si el método se compone de dos o más palabras, desde la segunda empezaría en mayúsculas cada palabra. 
+
+```Java
+public void employeeRecords(){} // Sintaxis valida
+public void EmployeeRecords(){} // Sintaxis valida, pero desaconsejada
+```
+
+### [[DataTypes, Variables|Identificadores]]
+
+Los identificadores son los nombres de las [[DataTypes, Variables|variables]] en general, como #Variables variables locales, instancias de clases, paquetes, módulos y métodos.
+
+- Se puede empezar en minúscula (case sensitive), por guion bajo o signo de dólar (**$**), no se puede empezar por números o guiones (**-**)
+
+```Java
+Legal identifiers: MinNumber, total, ak74, hello_world, $amount, _under_value
+Illegal identifiers: 74ak, -amount
+```
+
+### Espacios en blanco
+
+Cada línea en blanco que hacemos posiblemente en los comentarios o que simplemente no escribimos nada, java lo va a ignorar.
+
+### Modificadores de acceso
+
+- **Modificadores de acceso:** default, public, protected, private.
+- **No son modificadores de acceso:** final, abstract, static, transient, synchronized, volatile, native.
+
+
+| Modificador de Acceso | Dentro de la Clase | Dentro del Paquete | Fuera del Paquete solo por subclase | Fuera del Paquete |
+|----------------------|--------------------|--------------------|------------------------------------|-------------------|
+| Private              | Sí                 | No                 | No                                 | No                |
+| Default              | Sí                 | Sí                 | No                                 | No                |
+| Protected            | Sí                 | Sí                 | Sí                                 | No                |
+| Public               | Sí                 | Sí                 | Sí                                 | Sí                |
+
+
+### Palabras reservadas
+
+Aquí una tabla de las palabras reservadas que tiene java.
 
 | Column 1   | Column 2   | Column 3   | Column 4   |
 |------------|------------|------------|------------|

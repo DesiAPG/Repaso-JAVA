@@ -2,5 +2,6 @@
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "calendar"
 ]
