@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/DataTypes, Variables.md",
+                "file": "Fundamentals/Conditionals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/DataTypes, Variables.md",
+                "file": "Fundamentals/Conditionals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/DataTypes, Variables.md",
+                "file": "Fundamentals/Conditionals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/DataTypes, Variables.md"
+                "file": "Fundamentals/Conditionals.md"
               }
             }
           },
@@ -158,9 +158,12 @@
   },
   "active": "0cf656d5a2a47921",
   "lastOpenFiles": [
+    "java-switch-statement.png",
+    "elseifladder.png",
+    "imgs/if1.png",
+    "Fundamentals/DataTypes, Variables.md",
     "Pasted image 20230523154341.png",
     "Excalidraw/Drawing 2023-05-23 15.42.09.excalidraw.md",
-    "Fundamentals/DataTypes, Variables.md",
     "Excalidraw",
     "imgs/Pasted image 20230523151206.png",
     "Fundamentals/Conditionals.md",
