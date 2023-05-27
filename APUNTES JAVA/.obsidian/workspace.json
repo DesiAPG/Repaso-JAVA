@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a54c8567d41b919",
+        "id": "af004da370a8b2e8",
         "type": "tabs",
         "children": [
           {
-            "id": "0cf656d5a2a47921",
+            "id": "c4640ed543e1a633",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Conditionals.md",
+                "file": "Fundamentals/Loops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Conditionals.md",
+                "file": "Fundamentals/Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Conditionals.md",
+                "file": "Fundamentals/Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Conditionals.md"
+                "file": "Fundamentals/Loops.md"
               }
             }
           },
@@ -156,24 +156,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cf656d5a2a47921",
+  "active": "c4640ed543e1a633",
   "lastOpenFiles": [
-    "java-switch-statement.png",
-    "elseifladder.png",
-    "imgs/if1.png",
+    "Fundamentals/Conditionals.md",
+    "Fundamentals/Loops.md",
+    "forloop.png",
+    "template/template.md",
+    "java-loops.png",
     "Fundamentals/DataTypes, Variables.md",
+    "imgs/java-switch-statement.png",
+    "imgs/nestedif.png",
+    "imgs/elseifladder.png",
+    "imgs/if1.png",
     "Pasted image 20230523154341.png",
     "Excalidraw/Drawing 2023-05-23 15.42.09.excalidraw.md",
     "Excalidraw",
     "imgs/Pasted image 20230523151206.png",
-    "Fundamentals/Conditionals.md",
     "Fundamentals/Basic syntax.md",
     "imgs/Pasted image 20230523150815.png",
     "imgs/Pasted image 20230523143451.png",
     "Identificadores.md",
     "imgs",
-    "imgs/Pasted image 20230523142729.png",
-    "template/template.md",
     "Excalidraw/Drawing 2023-05-23 11.38.45.excalidraw.md",
     "Excalidraw/Drawing 2023-05-23 11.38.37.excalidraw.md",
     "2023-05-23.md",

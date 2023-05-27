@@ -19,7 +19,8 @@ Para usar una variable, solo se requieren dos pasos:
 
 Para declarar la [[Basic syntax|variable]] lo único que se necesita es especificar el tipo de variable y el nombre que le queremos dar:
 
-![[Pasted image 20230523142729.png]]
+![[Pasted image 20230523142729.png|center]]
+
 
 **Ejemplo** 
 

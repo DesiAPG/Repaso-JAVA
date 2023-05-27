@@ -45,9 +45,54 @@ public class Question {
 }
 ```
 
-Como se puede apreciar lo que pasa es que hay muchos condicionales, esto es, a lo que se le puede llamar if anidados, ya que lo que hace es varias comprobaciones a ver cuál de estas nos devuelve un valor con base a nuestras necesidades, se compone de la declaración, la condición, el cuerpo que sería el código que se ejecuta si se cumple la condición y finalmente un else que tiene contiene el código que se ejecutara de ser falsa la condición.
+Como se puede apreciar lo que pasa es que hay muchos condicionales, esto es, lo que hace es varias comprobaciones a ver cuál de estas nos devuelve un valor con base a nuestras necesidades, se compone de la declaración, la condición, el cuerpo que sería el código que se ejecuta si se cumple la condición y finalmente un else que tiene contiene el código que se ejecutara de ser falsa la condición.
 
 ![[elseifladder.png]]
+
+### Operador ternario
+
+Otra forma de poder declarar una condición es usando el operador ternario, el cual hace lo mismo que un if, pero de manera implícita y en una línea un **ejemplo** de esto puede ser.
+
+```Java
+package conditionals;  
+  
+public class TernaryOperator {  
+    public static void main(String[] args) {  
+        int number = 18;  
+        String output = (number >= 18) ? "Upper age" : "Under age";  
+        System.out.println(output);  
+    }  
+}
+```
+
+Este es un simple código usando el operador ternario donde si se cumple la condición, arroja 'upper age' de lo contrario arroja 'under age' y el resultado lo guardamos en una #variable llamada output.
+
+### Anidación de 'if'
+
+En este punto se pueden hacer condicionales dentro de otros condicionales, la lógica es simple, si la primera condición se cumple, ejecuta el código donde estará alojada otra condición, de ser falso saldrá de las dos declaraciones, pero si es verdadero continuará ejecutando el código que está dentro del 'if'.
+
+```Java
+package conditionals;  
+  
+public class IfAnidation {  
+    public static void main(String[] args) {  
+        int age = 34;  
+        int weight = 65;  
+        if (age >= 18) {  
+            if (weight >= 60 && weight <= 100) {  
+                System.out.println("You can donate blood");  
+            }  
+        } else {  
+            System.out.printf("You can't donate blood");  
+        }  
+    }  
+}
+```
+
+En este código se declaran e inicializan dos variables y hace dos comprobaciones, si es mayor o igual a 18 años y su peso es mayor que 60 kg y menor de 100 kg, podrá donar sangre, de lo contrario si no cumple alguna de las dos, no podrá.
+
+![[nestedif.png]]
+
 
 ## Switch
 
@@ -85,5 +130,5 @@ public class SwitchExpression {
 
 En este caso iniciamos con la #variable day en la cual le asignamos un valor, y un String myDay, lo que hace el switch es recorrer todos los casos y si alguno cumple con la condición que se pone en paréntesis ejecutara el código dentro de case, y por último se hace un break para que no siga recorriendo más el switch, si no encuentra ninguno que cumpla la condición se ejecutara la declaración default.
 
-![[java-switch-statement.png]]
+![[java-switch-statement.png|center]]
 
