@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af004da370a8b2e8",
+        "id": "de4c7a4d6deba50b",
         "type": "tabs",
         "children": [
           {
-            "id": "c4640ed543e1a633",
+            "id": "9c767ddcde9d3fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Loops.md",
+                "file": "Fundamentals/Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Loops.md",
+                "file": "Fundamentals/Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Loops.md",
+                "file": "Fundamentals/Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Loops.md"
+                "file": "Fundamentals/Methods.md"
               }
             }
           },
@@ -156,11 +156,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4640ed543e1a633",
+  "active": "9c767ddcde9d3fb7",
   "lastOpenFiles": [
-    "Fundamentals/Conditionals.md",
+    "imgs/methods-in-java.png",
+    "Fundamentals/Exception Handling.md",
+    "Fundamentals/Methods.md",
+    "imgs/forloop.png",
+    "imgs/Group21-660x330.jpg",
     "Fundamentals/Loops.md",
-    "forloop.png",
+    "Fundamentals/Conditionals.md",
     "template/template.md",
     "java-loops.png",
     "Fundamentals/DataTypes, Variables.md",
@@ -174,7 +178,6 @@
     "imgs/Pasted image 20230523151206.png",
     "Fundamentals/Basic syntax.md",
     "imgs/Pasted image 20230523150815.png",
-    "imgs/Pasted image 20230523143451.png",
     "Identificadores.md",
     "imgs",
     "Excalidraw/Drawing 2023-05-23 11.38.45.excalidraw.md",
