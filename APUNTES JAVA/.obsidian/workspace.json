@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c767ddcde9d3fb7",
+            "id": "b4da3c1da3d30166",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Methods.md",
+                "file": "Fundamentals/Data Structures/Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Methods.md",
+                "file": "Fundamentals/Data Structures/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Methods.md",
+                "file": "Fundamentals/Data Structures/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Methods.md"
+                "file": "Fundamentals/Data Structures/Arrays.md"
               }
             }
           },
@@ -156,11 +156,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c767ddcde9d3fb7",
+  "active": "b4da3c1da3d30166",
   "lastOpenFiles": [
+    "imgs/array.png",
+    "Fundamentals/Data Structures/Data Structures.md",
+    "Fundamentals/Data Structures/Arrays.md",
+    "imgs/ClassificationofDataStructure-660x347 1.jpg",
+    "imgs/ClassificationofDataStructure-660x347.jpg",
+    "Excalidraw/Drawing 2023-05-30 14.54.53.excalidraw.md",
+    "Fundamentals/Data Structures",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Fundamentals/Methods.md",
+    "Excalidraw",
     "imgs/methods-in-java.png",
     "Fundamentals/Exception Handling.md",
-    "Fundamentals/Methods.md",
     "imgs/forloop.png",
     "imgs/Group21-660x330.jpg",
     "Fundamentals/Loops.md",
@@ -171,13 +183,8 @@
     "imgs/java-switch-statement.png",
     "imgs/nestedif.png",
     "imgs/elseifladder.png",
-    "imgs/if1.png",
-    "Pasted image 20230523154341.png",
     "Excalidraw/Drawing 2023-05-23 15.42.09.excalidraw.md",
-    "Excalidraw",
-    "imgs/Pasted image 20230523151206.png",
     "Fundamentals/Basic syntax.md",
-    "imgs/Pasted image 20230523150815.png",
     "Identificadores.md",
     "imgs",
     "Excalidraw/Drawing 2023-05-23 11.38.45.excalidraw.md",
