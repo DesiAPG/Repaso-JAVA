@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3dc6dbffce072d7d",
+        "id": "137b6df30aab5500",
         "type": "tabs",
         "children": [
           {
-            "id": "d48dfb11de2c4cc8",
+            "id": "3d093dfda5f23b74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/POO/POO.md",
+                "file": "Getting Deeper/Memory Managment in Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/POO/POO.md",
+                "file": "Getting Deeper/Memory Managment in Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/POO/POO.md",
+                "file": "Getting Deeper/Memory Managment in Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/POO/POO.md"
+                "file": "Getting Deeper/Memory Managment in Java.md"
               }
             }
           },
@@ -156,10 +156,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48dfb11de2c4cc8",
+  "active": "3d093dfda5f23b74",
   "lastOpenFiles": [
-    "2023-05-31.md",
+    "imgs/memory-management-in-java.png",
+    "Fundamentals/Working with files.md",
+    "Getting Deeper/Memory Managment in Java.md",
+    "Getting Deeper",
+    "Fundamentals/Untitled",
     "Fundamentals/POO/POO.md",
+    "2023-05-31.md",
     "Fundamentals/Data Structures/Arrays.md",
     "Fundamentals/POO",
     "imgs/array.png",
