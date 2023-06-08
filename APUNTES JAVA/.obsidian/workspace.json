@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Deeper/Memory Managment in Java.md",
+                "file": "Getting Deeper/Collections Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Deeper/Memory Managment in Java.md",
+                "file": "Getting Deeper/Collections Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Deeper/Memory Managment in Java.md",
+                "file": "Getting Deeper/Collections Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Deeper/Memory Managment in Java.md"
+                "file": "Getting Deeper/Collections Framework.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "3d093dfda5f23b74",
   "lastOpenFiles": [
+    "imgs/java-collection-hierarchy.png",
+    "Getting Deeper/Memory Managment in Java.md",
+    "Getting Deeper/Collections Framework.md",
     "imgs/memory-management-in-java.png",
     "Fundamentals/Working with files.md",
-    "Getting Deeper/Memory Managment in Java.md",
     "Getting Deeper",
     "Fundamentals/Untitled",
     "Fundamentals/POO/POO.md",
@@ -189,7 +191,6 @@
     "java-loops.png",
     "Fundamentals/DataTypes, Variables.md",
     "imgs/java-switch-statement.png",
-    "imgs/nestedif.png",
     "Excalidraw/Drawing 2023-05-23 15.42.09.excalidraw.md",
     "Fundamentals/Basic syntax.md",
     "Identificadores.md",
