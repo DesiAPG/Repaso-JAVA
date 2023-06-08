@@ -14,7 +14,7 @@ public class TestLists {
         System.out.println(list.isEmpty());
         System.out.println(list.indexOf(123));
         System.out.println(list.get(1));
-        Collections.sort(list);
+        //Collections.sort(list);
         System.out.println(Collections.max(list));
         System.out.println(list);
     }
