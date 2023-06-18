@@ -48,5 +48,5 @@ Comprendamos la arquitectura interna de JVM.  Contiene cargador de clases, área
 ![[jvm-architecture.png]]
 
 
-
+A diferencia de C, C++ que tienen un compilador que saca todo en componentes, por ejemplo, si tenemos una clase con dos métodos, el compilador arrojará 3 archivos, uno que es la clase, y los otros dos con los métodos correspondientes por separado, esto después mediante un enlace se unen los tres archivos compilados y nos da el .exe final. Pero con Java ocurre algo diferente, tenemos también un compilador, pero a diferencia de el de C, este nos arroja los archivos .class en bytecode, en este paso no hay ningún tipo de enlace, sino que es la JVM la que entra y lee los tres archivos para hacer el output.
 

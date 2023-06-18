@@ -71,7 +71,9 @@
     "ArrayList",
     "instanciamos",
     "ArrayLists",
-    "add"
+    "add",
+    "bytecode",
+    "class"
   ],
   "spellcheckLanguages": [],
   "attachmentFolderPath": "imgs"
