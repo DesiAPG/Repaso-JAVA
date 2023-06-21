@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Deeper/JVM.md",
+                "file": "Spring/What is and architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Deeper/JVM.md",
+                "file": "Spring/What is and architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Deeper/JVM.md",
+                "file": "Spring/What is and architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Deeper/JVM.md"
+                "file": "Spring/What is and architecture.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "3d093dfda5f23b74",
   "lastOpenFiles": [
+    "Getting Deeper/JVM.md",
+    "Spring/What is and architecture.md",
+    "Spring",
     "imgs/jvm-architecture.png",
     "Getting Deeper/Collections Framework.md",
-    "Getting Deeper/JVM.md",
     "imgs/java-collection-hierarchy.png",
     "Getting Deeper/Memory Managment in Java.md",
     "imgs/memory-management-in-java.png",
@@ -190,7 +192,6 @@
     "Fundamentals/Loops.md",
     "Fundamentals/Conditionals.md",
     "template/template.md",
-    "java-loops.png",
     "Fundamentals/DataTypes, Variables.md",
     "Excalidraw/Drawing 2023-05-23 15.42.09.excalidraw.md",
     "Fundamentals/Basic syntax.md",
@@ -202,7 +203,6 @@
     "Excalidraw/Drawing 2023-05-23 10.45.47.excalidraw.md",
     "Excalidraw/Drawing 2023-05-23 10.45.49.excalidraw.md",
     "Excalidraw/Drawing 2023-05-22 22.02.03.excalidraw.md",
-    "template",
-    "Fundamentals"
+    "template"
   ]
 }
