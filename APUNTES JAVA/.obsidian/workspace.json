@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/What is and architecture.md",
+                "file": "Spring/Spring Teminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/What is and architecture.md",
+                "file": "Spring/Spring Teminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/What is and architecture.md",
+                "file": "Spring/Spring Teminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/What is and architecture.md"
+                "file": "Spring/Spring Teminology.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "3d093dfda5f23b74",
   "lastOpenFiles": [
-    "Getting Deeper/JVM.md",
     "Spring/What is and architecture.md",
+    "Spring/Spring Teminology.md",
+    "Getting Deeper/JVM.md",
     "Spring",
     "imgs/jvm-architecture.png",
     "Getting Deeper/Collections Framework.md",
@@ -202,7 +203,6 @@
     "2023-05-23.md",
     "Excalidraw/Drawing 2023-05-23 10.45.47.excalidraw.md",
     "Excalidraw/Drawing 2023-05-23 10.45.49.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-22 22.02.03.excalidraw.md",
     "template"
   ]
 }
