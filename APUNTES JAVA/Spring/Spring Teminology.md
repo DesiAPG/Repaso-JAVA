@@ -22,5 +22,16 @@ Spring Core es la base de Spring Framework, que proporciona un modelo completo d
 - **Ejecución y programación de tareas:** Spring proporciona TaskExecutor y TaskScheduler, lo que brinda una forma conveniente de ejecutar tareas simultáneamente, de forma programada o asíncrona.
 
 
+# Arquitectura
+
+Spring Boot sigue una arquitectura en capas en la que cada capa se comunica con la capa directamente debajo o encima (estructura jerárquica). Hay cuatro capas en Spring Boot que son las siguientes:
+
+- **Capa de presentación**: maneja las solicitudes HTTP, traduce el parámetro JSON a objeto, autentica la solicitud y la transfiere a la capa de negocio.
+- **Business Layer**: La capa de negocio maneja toda la lógica de negocio. Consiste en clases de servicio y utiliza servicios proporcionados por capas de acceso a datos. También realiza autorización y validación.
+- **Capa de persistencia**: La capa de persistencia contiene toda la lógica de almacenamiento y traduce los objetos de negocio desde y hacia las filas de la base de datos.
+- **Capa de base de datos**: En la capa de base de datos, se realizan operaciones CRUD (crear, recuperar, actualizar, eliminar).
+
+
+
 
 

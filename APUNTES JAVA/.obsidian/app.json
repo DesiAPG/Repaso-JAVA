@@ -83,7 +83,8 @@
     "beans",
     "beans",
     "ApplicationContext",
-    "ApplicationContext"
+    "ApplicationContext",
+    "Teminology"
   ],
   "spellcheckLanguages": [],
   "attachmentFolderPath": "imgs"

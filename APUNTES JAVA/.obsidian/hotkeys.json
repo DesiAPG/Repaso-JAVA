@@ -6,5 +6,21 @@
       ],
       "key": "C"
     }
+  ],
+  "deepl:deepl-translate-selection": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "language-translator:language-translator-editor-command": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }
