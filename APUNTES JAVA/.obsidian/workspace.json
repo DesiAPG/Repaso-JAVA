@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Teminology.md",
+                "file": "Spring/Dependency injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring Teminology.md",
+                "file": "Spring/Dependency injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring Teminology.md",
+                "file": "Spring/Dependency injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring Teminology.md"
+                "file": "Spring/Dependency injection.md"
               }
             }
           },
@@ -158,7 +158,9 @@
   },
   "active": "3d093dfda5f23b74",
   "lastOpenFiles": [
+    "imgs/1 muhJboMa1mrwDDjRiTopAQ.webp",
     "Spring/Spring Teminology.md",
+    "Spring/Dependency injection.md",
     "Spring/What is and architecture.md",
     "Getting Deeper/JVM.md",
     "Spring",
@@ -201,8 +203,6 @@
     "Excalidraw/Drawing 2023-05-23 11.38.45.excalidraw.md",
     "Excalidraw/Drawing 2023-05-23 11.38.37.excalidraw.md",
     "2023-05-23.md",
-    "Excalidraw/Drawing 2023-05-23 10.45.47.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-23 10.45.49.excalidraw.md",
     "template"
   ]
 }

@@ -84,7 +84,9 @@
     "beans",
     "ApplicationContext",
     "ApplicationContext",
-    "Teminology"
+    "Teminology",
+    "Dependency",
+    "injection"
   ],
   "spellcheckLanguages": [],
   "attachmentFolderPath": "imgs"
