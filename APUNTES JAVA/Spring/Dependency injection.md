@@ -31,6 +31,25 @@ Entonces, si ahora tengo que definir Inyección de dependencias para usted, ento
 
 Ahora que ha entendido qué es la inyección de dependencia, permítame llevarlo a través del principio en el que se basa la inyección de dependencia.
 
+# Inversión de control
+
+Como he mencionado anteriormente, la inversión de control es un principio basado en el cual, se realiza la inyección de dependencias. Además, como su nombre indica, la inversión de control se usa básicamente para invertir diferentes tipos de responsabilidades adicionales de una clase en lugar de la responsabilidad principal.
+
+Si tengo que explicarte en términos más simples, entonces considera un ejemplo, en el que tienes la capacidad de cocinar. De acuerdo con el principio de IoC, puede invertir el control, por lo que en lugar de cocinar alimentos, puede ordenar directamente desde afuera, donde recibe alimentos en su puerta. Por lo tanto, el proceso de comida que se le entrega en su puerta se llama Inversión de Control.
+
+No tiene que cocinar usted mismo, en cambio, puede pedir la comida y dejar que un ejecutivo de entrega le entregue la comida. De esta manera, no tiene que ocuparse de las responsabilidades adicionales y solo concentrarse en el trabajo principal.
+
+Ahora que conoces el principio detrás de la inyección de dependencia, déjame llevarte a través de los tipos de inyección de dependencia.
+
+# Tipos de inyección de dependencias
+
+Hay principalmente tres tipos de inyección de dependencia:
+
+- **Inyección constructor:** En este tipo de inyección, el inyector proporciona dependencia a través del constructor de clase cliente.
+- **Inyección de setter / Inyección de propiedades:** En este tipo de inyección, el método inyector inyecta la dependencia al método setter expuesto por el cliente.
+- **Inyección de interfaz:** En este tipo de inyección, el inyector utiliza Interface para proporcionar dependencia a la clase de cliente. Los clientes deben implementar una interfaz que exponga un método setter que acepte la dependencia.
+
+Hasta ahora, espero que haya entendido el hecho de que la inyección de dependencias es responsable de crear objetos, comprender qué clases requieren esos objetos y, finalmente, proporcionar esas clases con los objetos. Entonces, en ese sentido, veamos a continuación los beneficios de la inyección de dependencia.
 
 
 
