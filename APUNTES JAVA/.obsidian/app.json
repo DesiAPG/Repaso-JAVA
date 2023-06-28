@@ -86,7 +86,10 @@
     "ApplicationContext",
     "Teminology",
     "Dependency",
-    "injection"
+    "injection",
+    "boot",
+    "Cloud",
+    "Annotations"
   ],
   "spellcheckLanguages": [],
   "attachmentFolderPath": "imgs"

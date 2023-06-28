@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Dependency injection.md",
+                "file": "Spring/Annotations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Dependency injection.md",
+                "file": "Spring/Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Dependency injection.md",
+                "file": "Spring/Annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Dependency injection.md"
+                "file": "Spring/Annotations.md"
               }
             }
           },
@@ -158,10 +158,18 @@
   },
   "active": "3d093dfda5f23b74",
   "lastOpenFiles": [
-    "imgs/1 muhJboMa1mrwDDjRiTopAQ.webp",
-    "Spring/Spring Teminology.md",
-    "Spring/Dependency injection.md",
+    "imgs/1 aopcd8pl0RHkLo2pi7So6A.webp",
+    "imgs/1 tSHpHp2iH7YkGvZ7oKW8dw.webp",
+    "imgs/1 -ZunS4QwK7i5fOA3rqUnpA.webp",
     "Spring/What is and architecture.md",
+    "Spring/Annotations.md",
+    "Spring/Annotations.md",
+    "template/template.md",
+    "Spring/Spring Teminology.md",
+    "imgs/1 q9aWC1rxS55WUSEOAnvEdw.webp",
+    "imgs/1 sd0a5jrfn8lyYCXzimLB5Q.webp",
+    "Spring/Dependency injection.md",
+    "imgs/1 muhJboMa1mrwDDjRiTopAQ.webp",
     "Getting Deeper/JVM.md",
     "Spring",
     "imgs/jvm-architecture.png",
@@ -179,30 +187,22 @@
     "imgs/array.png",
     "Fundamentals/Data Structures/Data Structures.md",
     "imgs/ClassificationofDataStructure-660x347 1.jpg",
-    "imgs/ClassificationofDataStructure-660x347.jpg",
     "Excalidraw/Drawing 2023-05-30 14.54.53.excalidraw.md",
     "Fundamentals/Data Structures",
-    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Fundamentals/Methods.md",
     "Excalidraw",
-    "imgs/methods-in-java.png",
     "Fundamentals/Exception Handling.md",
-    "imgs/forloop.png",
-    "imgs/Group21-660x330.jpg",
     "Fundamentals/Loops.md",
     "Fundamentals/Conditionals.md",
-    "template/template.md",
     "Fundamentals/DataTypes, Variables.md",
     "Excalidraw/Drawing 2023-05-23 15.42.09.excalidraw.md",
     "Fundamentals/Basic syntax.md",
     "Identificadores.md",
     "imgs",
     "Excalidraw/Drawing 2023-05-23 11.38.45.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-23 11.38.37.excalidraw.md",
-    "2023-05-23.md",
     "template"
   ]
 }

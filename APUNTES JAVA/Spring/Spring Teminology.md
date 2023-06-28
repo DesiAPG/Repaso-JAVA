@@ -31,7 +31,9 @@ Spring Boot sigue una arquitectura en capas en la que cada capa se comunica con 
 - **Capa de persistencia**: La capa de persistencia contiene toda la lógica de almacenamiento y traduce los objetos de negocio desde y hacia las filas de la base de datos.
 - **Capa de base de datos**: En la capa de base de datos, se realizan operaciones CRUD (crear, recuperar, actualizar, eliminar).
 
+![[1 sd0a5jrfn8lyYCXzimLB5Q.webp]]
 
+![[1 q9aWC1rxS55WUSEOAnvEdw.webp]]
 
 
 
