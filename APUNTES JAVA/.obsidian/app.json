@@ -90,7 +90,20 @@
     "boot",
     "Cloud",
     "Annotations",
-    "posgre"
+    "posgre",
+    "postgres",
+    "endpoint",
+    "ddl",
+    "PostgreSQL15",
+    "jpa",
+    "Postgres",
+    "POJO",
+    "lombok",
+    "code",
+    "boilerplate",
+    "contructors",
+    "getters",
+    "CRUD"
   ],
   "spellcheckLanguages": [],
   "attachmentFolderPath": "imgs"
