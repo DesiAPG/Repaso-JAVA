@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Annotations.md",
+                "file": "Spring/Spring MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Annotations.md",
+                "file": "Spring/Spring MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Annotations.md",
+                "file": "Spring/Spring MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Annotations.md"
+                "file": "Spring/Spring MVC.md"
               }
             }
           },
@@ -158,24 +158,27 @@
   },
   "active": "3d093dfda5f23b74",
   "lastOpenFiles": [
-    "Spring/Dependency injection.md",
+    "imgs/Pasted image 20230704175128.png",
+    "imgs/Pasted image 20230704174209.png",
+    "imgs/Pasted image 20230704174101.png",
+    "imgs/Pasted image 20230704174005.png",
+    "imgs/Pasted image 20230704173857.png",
+    "Spring/Spring Teminology.md",
+    "Spring/Spring MVC.md",
     "Spring/Annotations.md",
+    "Spring/Dependency injection.md",
+    "imgs/Pasted image 20230704173604.png",
     "imgs/1 aopcd8pl0RHkLo2pi7So6A.webp",
     "imgs/1 tSHpHp2iH7YkGvZ7oKW8dw.webp",
     "imgs/1 -ZunS4QwK7i5fOA3rqUnpA.webp",
     "Spring/What is and architecture.md",
     "template/template.md",
-    "Spring/Spring Teminology.md",
     "imgs/1 q9aWC1rxS55WUSEOAnvEdw.webp",
     "imgs/1 sd0a5jrfn8lyYCXzimLB5Q.webp",
-    "imgs/1 muhJboMa1mrwDDjRiTopAQ.webp",
     "Getting Deeper/JVM.md",
     "Spring",
-    "imgs/jvm-architecture.png",
     "Getting Deeper/Collections Framework.md",
-    "imgs/java-collection-hierarchy.png",
     "Getting Deeper/Memory Managment in Java.md",
-    "imgs/memory-management-in-java.png",
     "Fundamentals/Working with files.md",
     "Getting Deeper",
     "Fundamentals/Untitled",
@@ -183,7 +186,6 @@
     "2023-05-31.md",
     "Fundamentals/Data Structures/Arrays.md",
     "Fundamentals/POO",
-    "imgs/array.png",
     "Fundamentals/Data Structures/Data Structures.md",
     "Excalidraw/Drawing 2023-05-30 14.54.53.excalidraw.md",
     "Fundamentals/Data Structures",

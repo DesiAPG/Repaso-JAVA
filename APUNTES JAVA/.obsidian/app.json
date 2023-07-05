@@ -89,7 +89,8 @@
     "injection",
     "boot",
     "Cloud",
-    "Annotations"
+    "Annotations",
+    "posgre"
   ],
   "spellcheckLanguages": [],
   "attachmentFolderPath": "imgs"
